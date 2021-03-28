@@ -1,3 +1,3 @@
 # Task_manager
-* Sign up and manage your task.
+* Sign up and manage your tasks.
 
